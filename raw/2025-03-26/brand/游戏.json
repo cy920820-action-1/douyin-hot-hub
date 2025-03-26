@@ -1,1 +1,1 @@
-{"status_code":0,"status_msg":"","brand_list":null,"banners":[{"click_track_url_list":null,"track_url_list":null}],"extra":{"logid":"20250326095822F8D70449CFF01C4084AD","now":1742954302000,"fatal_item_ids":[]},"log_pb":{"impr_id":"20250326095822F8D70449CFF01C4084AD"}}
+{"status_msg":"","brand_list":null,"banners":[{"track_url_list":null,"click_track_url_list":null}],"extra":{"fatal_item_ids":[],"logid":"20250326110434ADF726EF45ACB5060981","now":1742958274000},"log_pb":{"impr_id":"20250326110434ADF726EF45ACB5060981"},"status_code":0}
